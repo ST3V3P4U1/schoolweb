@@ -1,0 +1,41 @@
+#canteen img {
+    width:200px;
+}
+#schoolvideo img {
+    height:400px
+}
+#achievements span {
+    color:orange;
+}
+.schoolach {
+    font-size:20px;
+    padding:5px 20px;
+    border-radius: 10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+}
+.schoolach i {
+    float:right;
+}
+.campusbuilding {
+    border:1px solid grey;
+}
+.campusbuilding img {
+    width:100%;
+}
+#introimg {
+    width:100%;
+}
+.wn {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+iframe {
+    width:100%;
+}
+.wn h4 {
+    border-bottom: 1px solid white;
+    padding:10px;
+    
+}
